@@ -1,0 +1,13 @@
+{
+  "name": "desafio-letra",
+  "version": "1.0.0",
+  "description": "Resolução do desafio proposto pra vaga de estágio da Sol",
+  "main": "desafio-base/index.js",
+  "scripts": {
+    "base" : "node desafio-base/index.js",
+    "bonus": "node desafio-posicao-bonus/index.js",
+    "varias": "node desafio-varias-palavras/index.js"
+  },
+  "author": "Cassius Costa",
+  "license": "ISC"
+}
